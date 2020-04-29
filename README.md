@@ -2,17 +2,17 @@
       <tbody>
         <tr>
           <td>galbimandu</td>
-          <td>이름</td>
-          <td>이름</td>
-          <td>이름</td>
-          <td>이름</td>
+          <td>galbimandu</td>
+          <td>galbimandu</td>
+          <td>galbimandu</td>
+          <td>galbimandu</td>
         </tr>
         <tr>
-          <td>이름</td>
-          <td>이름</td>
-          <td>이름</td>
-          <td>이름</td>
-          <td>이름</td>
+          <td>galbimandu</td>
+          <td>galbimandu</td>
+          <td>galbimandu</td>
+          <td>galbimandu</td>
+          <td>galbimandu</td>
         </tr>
       </tbody>
 </table>
