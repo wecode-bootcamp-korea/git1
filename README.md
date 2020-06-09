@@ -1,20 +1,20 @@
 <table>
       <tbody>
         <tr>
-          <td>서준표</td>
-          <td>서준표</td>
-          <td>서준표</td>
-          <td>서준표</td>
-          <td>서준표</td>
+          <td>고경호</td>
+          <td>고경호</td>
+          <td>고경호</td>
+          <td>고경호</td>
+          <td>고경호</td>
         </tr>
         <tr>
-          <td>서준표</td>
-          <td>서준표</td>
-          <td>서준표</td>
-          <td>서준표</td>
+          <td>고경호</td>
+          <td>고경호</td>   
+	  <td>고경호</td>
+          <td>고경호</td>
           <td>서준표</td>
         </tr>
-      </tbody>
+      :</tbody>
 </table>
 
 ## 땅따먹기 게임
