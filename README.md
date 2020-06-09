@@ -1,18 +1,18 @@
 <table>
       <tbody>
         <tr>
-          <td>서준표</td>
-          <td>서준표</td>
-          <td>서준표</td>
-          <td>서준표</td>
-          <td>서준표</td>
+          <td>NICK</td>
+          <td>NICK</td>
+          <td>NICK</td>
+          <td>NICK</td>
+          <td>NICK</td>
         </tr>
         <tr>
-          <td>서준표</td>
-          <td>서준표</td>
-          <td>서준표</td>
-          <td>서준표</td>
-          <td>서준표</td>
+          <td>NICK</td>
+          <td>NICK</td>
+          <td>NICK</td>
+          <td>NICK</td>
+          <td>NICK</td>
         </tr>
       </tbody>
 </table>
