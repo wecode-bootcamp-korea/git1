@@ -1,18 +1,18 @@
 <table>
       <tbody>
         <tr>
-          <td>서준표</td>
-          <td>서준표</td>
-          <td>서준표</td>
-          <td>서준표</td>
-          <td>서준표</td>
+          <td>박지훈</td>
+          <td>박지훈</td>
+          <td>박지훈</td>
+          <td>이름</td>
+          <td>이름</td>
         </tr>
         <tr>
-          <td>서준표</td>
-          <td>서준표</td>
-          <td>서준표</td>
-          <td>서준표</td>
-          <td>서준표</td>
+          <td>박지훈</td>
+          <td>박지훈</td>
+          <td>이름</td>
+          <td>이름</td>
+          <td>이름</td>
         </tr>
       </tbody>
 </table>
