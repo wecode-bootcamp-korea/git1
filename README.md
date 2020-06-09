@@ -1,10 +1,10 @@
 <table>
       <tbody>
         <tr>
-          <td>서준표</td>
-          <td>서준표</td>
-          <td>서준표</td>
-          <td>서준표</td>
+          <td>이승호</td>
+          <td>이승호</td>
+          <td>이승호</td>
+          <td>이승호</td>
           <td>서준표</td>
         </tr>
         <tr>
